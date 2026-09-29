@@ -1,2 +1,3 @@
-# hello-world
-My first GitHub repository
+# Hello World
+
+这是我的第一个 GitHub 仓库。
